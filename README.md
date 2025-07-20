@@ -150,13 +150,4 @@ For a complete markdown reference, see:
 [7]: https://discordjs.guide/popular-topics/display-components  
 [9]: https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51
 
-[1] https://www.markdownguide.org/extended-syntax/
-[2] https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
-[3] https://www.codecademy.com/resources/docs/markdown/code-blocks
-[4] https://www.markdownguide.org/basic-syntax/
-[5] https://elischei.com/syntax-highlighting-in-markdown-code-blocks/
-[6] https://www.youtube.com/watch?v=IG9_EM5cw3U
-[7] https://retype.com/components/code-block/
-[8] https://www.jetbrains.com/help/hub/markdown-syntax.html
-[9] https://docs.readme.com/rdmd/docs/code-blocks
-[10] https://help.obsidian.md/syntax
+
